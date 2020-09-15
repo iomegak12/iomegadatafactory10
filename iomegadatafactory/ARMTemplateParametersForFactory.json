@@ -5,8 +5,20 @@
 		"factoryName": {
 			"value": "iomegadatafactory"
 		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureFunction1_functionKey": {
+			"value": ""
+		},
 		"AzureKeyVault1_properties_typeProperties_baseUrl": {
 			"value": "https://iomegakeyvault.vault.azure.net/"
+		},
+		"AzureFunction1_properties_typeProperties_functionAppUrl": {
+			"value": "https://pathextractorfapp20200915062543.azurewebsites.net"
 		}
 	}
 }
